@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Regular';
+    src: url('fonts/Raleway-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Medium';
+    src: url('fonts/Raleway-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Semibold';
+    src: url('fonts/Raleway-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Bold';
+    src: url('fonts/Raleway-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Extrabold';
+    src: url('fonts/Raleway-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Narrow Bold';
+    src: url('fonts/ARIALNB.TTF') format('truetype');
+}
+@font-face {
+    font-family: 'Black';
+    src: url('fonts/ArialCEMTBlack.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url('fonts/OpenSans-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'OpenSans Regular';
+    src: url('fonts/OpenSans-Regular.ttf') format('truetype');
+}
